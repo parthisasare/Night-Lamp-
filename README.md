@@ -1,2 +1,2 @@
-LED - PIN 13
-LDR - 10
+LED - PIN 13 , GND
+LDR - A0 , GND
